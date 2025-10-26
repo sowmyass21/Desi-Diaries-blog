@@ -1,5 +1,5 @@
 import React from "react";
-import './blogcontent.css';
+import './BlogContent.css';
 import { Link } from "react-router-dom";
 
 export default function BlogContent() {
